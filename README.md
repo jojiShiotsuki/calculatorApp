@@ -1,6 +1,6 @@
 # Calculator Vue App
 
-![Calculator Screenshot]([path_to_screenshot.png](https://github.com/jojiShiotsuki/calculatorApp/blob/main/calc-clip.mp4)) <!-- Replace with the path to your screenshot -->
+![Calculator Screenshot]([https://github.com/jojiShiotsuki/calculatorApp/blob/main/calc-clip-ezgif.com-video-to-gif-converter.gif]) <!-- Replace with the path to your screenshot -->
 
 ## 🧮 Overview
 
